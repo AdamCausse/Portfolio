@@ -83,21 +83,29 @@ This GitHub hosts a selection of **engineering project reports** developed durin
 
 - **Computational Methods**                     
   Numerical simulation of **1D heat diffusion**
-<a href="projets/Assignment_Computational_Method.pdf" target="_blank" style="padding:8px 16px; background-color:#0366d6; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:5px;">
-  Computational Methods – 1D Heat Diffusion
+<a href="Projets/Assignment_Computational_Method.pdf" target="_blank" style="padding:8px 16px; background-color:#0366d6; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:5px;">
+  View Report
 </a>
 - **CAD, FEM & Aircraft Modeling**  
   Structural simulation of an **aircraft rib (CATIA V5)** and **aircraft modeling (OpenVSP)**
-<a href="projets/Assignment_CAD_Airframe.pdf" target="_blank" style="padding:8px 16px; background-color:#0366d6; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:5px;">
+<a href="Projets/Assignment_CAD_Airframe.pdf" target="_blank" style="padding:8px 16px; background-color:#0366d6; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:5px;">
+ View Report
+</a>
 - **CFD & Turbulence Modeling**  
   **RANS model comparison** in ANSYS Fluent validated against **ONERA experimental data**
-<a href="projets/Assignment_Modelling_Approaches_for_Aerospace_Application.pdf" target="_blank" style="padding:8px 16px; background-color:#0366d6; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:5px;">
+<a href="Projets/Assignment_Modelling_Approaches_for_Aerospace_Application.pdf" target="_blank" style="padding:8px 16px; background-color:#0366d6; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:5px;">
+ View Report
+</a>
 - **CFD Jet Simulation**  
   Mesh generation and **jet flow simulation** in ANSYS Fluent
-<a href="projets/Assignment_Computational_Aerodynamics.pdf" target="_blank" style="padding:8px 16px; background-color:#0366d6; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:5px;">
+<a href="Projets/Assignment_Computational_Aerodynamics.pdf" target="_blank" style="padding:8px 16px; background-color:#0366d6; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:5px;">
+ View Report
+</a>
 - **4th-Year Research Internship Report**  
   Laser micromachining and surface characterization study
-<a href="projets/CAUSSE_Adam_Cachan_SEI_P2026.pdf" target="_blank" style="padding:8px 16px; background-color:#0366d6; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:5px;">
+<a href="Projets/CAUSSE_Adam_Cachan_SEI_P2026.pdf" target="_blank" style="padding:8px 16px; background-color:#0366d6; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:5px;">
+ View Report
+</a>
 
 ## 🏃‍♂️ Beyond Engineering
 

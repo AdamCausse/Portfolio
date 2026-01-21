@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adam Causse
+ Adam Causse
 
 🎓 **Aerospace Engineering Student**  
 ✈️ **CFD • Aerodynamics • Numerical Simulation • CAO**  
